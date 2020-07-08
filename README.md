@@ -10,5 +10,5 @@ This Project requires Python 3  and the requests package
 First Install pipenv Then
 '''
 pipenv install  
-pipenv run "python find_meteor.py"
+pipenv run "python meteors/find_meteor.py"
 '''
